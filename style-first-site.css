@@ -12,7 +12,9 @@ body {
     font-family:fantasy;
     
   }
-  
+  h3{
+    color: yellow;
+  }
   img {
     float: right;
     width: 250px;
